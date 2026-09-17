@@ -1,6 +1,7 @@
 # API Contract — Smart Planner
 
 ## Схема Task 1
+dev
 {
   "id": "UUID (string)",
   "title": "string",
